@@ -1,6 +1,3 @@
-content {:toc}
-
-
 La Lista è una raccolta di scanner open source dalla piattaforma GitHub, tra cui enumerazione di sottodomini, scanner di vulnerabilità del database, password deboli o information leak scanners, scanner di porte, scanner di impronte digitali e altri large-scale scanner, scanner di moduli, ecc. . 
 Altri strumenti di scansione ben noti, come ad esempio: awvs, nmap, w3af non saranno inclusi nella raccolta.
 
