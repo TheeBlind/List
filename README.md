@@ -161,7 +161,7 @@ ________________________________________________________________________________
 
 · https://github.com/metac0rtex/GitHarvester 
 
-· https://github.com/shengqi158/svnhack(A).svn 
+· https://github.com/shengqi158/svnhack
 
 · https://github.com/repoog/GitPrey 
 
@@ -171,7 +171,7 @@ ________________________________________________________________________________
 
 · https://github.com/UnkL4b/GitMiner 
 
-· https://github.com/lijiejie/GitHack(A).git
+· https://github.com/lijiejie/GitHack
 
 · https://github.com/dxa4481/truffleHog
 
