@@ -52,6 +52,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
  Second, the database vulnerability scanner or enumeration tool
+ 
+ 
 · https://github.com/0xbug/SQLiScanner (a vulnerability-based vulnerability scan via sqlmap and charles)
 
 · https://github.com/stamparm/DSSS (SQLi vulnerability scanner has 99 lines of code)
@@ -85,6 +87,8 @@ ________________________________________________________________________________
 · https://github.com/UltimateHackers/sqlmate (a friend of sqlmap, it will do the sqlmap you have been expecting)
 
 · https://github.com/m8r0wn/enumdb (MySQL and MSSQL brute force and post-development tools)
+
+__________________________________________________________________________________________________________
 
  Third, weak password / user scanner or enumeration tool
 · https://github.com/lijiejie/htpwdScan (pythonHTTP weak delivery scanner)
