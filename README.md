@@ -3,6 +3,8 @@ The list is a collection of open source scanners from the GitHub platform, inclu
 
 
  First, subdomain scanner or enumeration tool
+ 
+ 
 · https://github.com/lijiejie/subDomainsBrute (a classic subdomain enumeration tool provided by lijiejie)
 
 · https://github.com/ring04h/wydomain (speed and precision subdomain enumeration tool with ringzero)
@@ -46,6 +48,8 @@ The list is a collection of open source scanners from the GitHub platform, inclu
 · https://github.com/n4xh4ck5/N4xD0rk (lists subdomains for the primary domain)
 
 · https://github.com/infosec-au/altdns (discover subdomains by modification and arrangement)
+
+________________________________________________________________________________________________________________
 
  Second, the database vulnerability scanner or enumeration tool
 · https://github.com/0xbug/SQLiScanner (a vulnerability-based vulnerability scan via sqlmap and charles)
