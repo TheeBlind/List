@@ -91,7 +91,8 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
- ##Weak password / user scanner or enumeration tool
+ ## Weak password / user scanner or enumeration tool
+ 
 · https://github.com/lijiejie/htpwdScan (pythonHTTP weak delivery scanner)
 
 · https://github.com/ysrc/F-Scrack (single file brute force support multi-protocol)
@@ -121,6 +122,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 ## Reflection or DOM-based xss scanner
+
 · https://github.com/shawarkhanethicalhacker/BruteXSS (cross-site scripting)
 
 · https://github.com/1N3/XSSTracer (a small python script for checking cross-site tracking)
@@ -179,6 +181,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 ## webshell detection or malware analysis tools
+
 · https://github.com/ym2011/ScanBackdoor (simple webshell probe)
 
 · https://github.com/yassineaddi/BackdoorMan (a toolkit finds malicious, hidden and suspicious php scripts and shells in selected destinations)
@@ -204,6 +207,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
  ## intranet penetration tool or scanner
+ 
 · https://github.com/0xwindows/VulScritp (Intranet penetration test script)
 
 · https://github.com/lcatro/network_backdoor_scanner (internal network scanner, such as meter)
@@ -215,6 +219,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 ## middleware scanner or fingerprint tool
+
 · https://github.com/ring04h/wyportmap (target port scan + system service fingerprint identification)
 
 · https://github.com/ring04h/weakfilescan (Dynamic Multithreading Sensitive Information Leak Detection Tool)
@@ -314,6 +319,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 ## Special scanner (only for some special components)
+
 · https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user crawl enumeration)
 
 · https://github.com/code-scan/dzscan (disc scanner)
@@ -385,6 +391,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 ## Wireless network scanner
+
 · https://github.com/savio-code/fern-wifi-cracker/ (testing and discovering defects in your network)
 
 · https://github.com/m4n3dw0lf/PytheM (Multi-Purpose Network Five-Layer Framework)
@@ -401,6 +408,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
  ## local area network (LAN) scanner
+ 
 · https://github.com/sowish/LNScan ( local network scanner based on BBScan via.lijieje)
 
 · https://github.com/niloofarkheirkhah/nili (network scanning tools, middleman, protocol reverse engineering and fuzzy)
@@ -433,6 +441,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
  ## Modular design scanner or vulnerability detection framework
+ 
 · https://github.com/infobyte/faraday (Collaboration Penetration Testing and Vulnerability Management Platform)
 
 · https://github.com/az0ne/AZScanner (automatic omnidirectional scanner)
@@ -508,7 +517,9 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
  ## some tools are related to APT.
+ 
 · https://github.com/Neo23x0/Loki (Simple International Olympic Committee and Event Response Scanner)
 __________________________________________________________________________________________________________
   ## some tools are related to ICS.
+  
 · https://github.com/w3h/icsmaster/tree/master/nse (ICS Enumeration Tool for Digital Bonds)
