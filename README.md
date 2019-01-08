@@ -3,7 +3,7 @@ The list is a collection of open source scanners from the GitHub platform, inclu
 
 __________________________________________________________________________________________________________
 
-## subdomain scanner or enumeration tool
+## Subdomain scanner or enumeration tool
  
  
 · https://github.com/lijiejie/subDomainsBrute (a classic subdomain enumeration tool provided by lijiejie)
@@ -180,7 +180,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-## webshell detection or malware analysis tools
+## Webshell detection or malware analysis tools
 
 · https://github.com/ym2011/ScanBackdoor (simple webshell probe)
 
@@ -206,7 +206,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
- ## intranet penetration tool or scanner
+ ## Intranet penetration tool or scanner
  
 · https://github.com/0xwindows/VulScritp (Intranet penetration test script)
 
@@ -218,7 +218,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-## middleware scanner or fingerprint tool
+## Middleware scanner or fingerprint tool
 
 · https://github.com/ring04h/wyportmap (target port scan + system service fingerprint identification)
 
@@ -407,7 +407,7 @@ ________________________________________________________________________________
 · https://github.com/derv82/wifite2 (complete rewriting of automatic wireless attack tools)
 __________________________________________________________________________________________________________
 
- ## local area network (LAN) scanner
+ ## Local area network (LAN) scanner
  
 · https://github.com/sowish/LNScan ( local network scanner based on BBScan via.lijieje)
 
@@ -417,7 +417,10 @@ ________________________________________________________________________________
 
 · https://github.com/rootlabs/nWatch (host discovery, port scanning and operating system fingerprinting tools in the LAN)
 
- Thirteen, code inspection tools or scanners
+__________________________________________________________________________________________________________
+
+ ## Code inspection tools or scanners
+
 · https://github.com/wufeifei/cobra (an automated code analysis system for automated vulnerability and security issues)
 
 · https://github.com/OneSourceCat/phpvulhunter (a tool that can automatically scan for php vulnerabilities using static analysis methods)
@@ -516,10 +519,10 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
- ## some tools are related to APT.
+ ## Some tools are related to APT.
  
 · https://github.com/Neo23x0/Loki (Simple International Olympic Committee and Event Response Scanner)
 __________________________________________________________________________________________________________
-  ## some tools are related to ICS.
+  ## Some tools are related to ICS.
   
 · https://github.com/w3h/icsmaster/tree/master/nse (ICS Enumeration Tool for Digital Bonds)
