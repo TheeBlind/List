@@ -2,7 +2,8 @@ The list is a collection of open source scanners from the GitHub platform, inclu
 
 
 __________________________________________________________________________________________________________
- First, subdomain scanner or enumeration tool
+
+## subdomain scanner or enumeration tool
  
  
 · https://github.com/lijiejie/subDomainsBrute (a classic subdomain enumeration tool provided by lijiejie)
@@ -51,7 +52,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________
 
- Second, the database vulnerability scanner or enumeration tool
+## Database vulnerability scanner or enumeration tool
  
  
 · https://github.com/0xbug/SQLiScanner (a vulnerability-based vulnerability scan via sqlmap and charles)
@@ -90,7 +91,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
- Third, weak password / user scanner or enumeration tool
+ ##Weak password / user scanner or enumeration tool
 · https://github.com/lijiejie/htpwdScan (pythonHTTP weak delivery scanner)
 
 · https://github.com/ysrc/F-Scrack (single file brute force support multi-protocol)
@@ -119,7 +120,7 @@ ________________________________________________________________________________
 · https://github.com/viraintel/OWASP-Nettacker (Network Information Collection Vulnerability Scanner, best for scanning the Internet of Things)
 __________________________________________________________________________________________________________
 
- 5. Reflection or DOM-based xss scanner
+## Reflection or DOM-based xss scanner
 · https://github.com/shawarkhanethicalhacker/BruteXSS (cross-site scripting)
 
 · https://github.com/1N3/XSSTracer (a small python script for checking cross-site tracking)
@@ -137,7 +138,7 @@ ________________________________________________________________________________
 · https://github.com/stamparm/DSXS (a fully functional cross-site scripting vulnerability scanner that supports getting and publishing parameters and writing 100 lines of code)
 __________________________________________________________________________________________________________
 
- 6. Enterprise asset management or leakage collection tools
+## Enterprise asset management or leakage collection tools
  
 · https://github.com/ysrc/xunfeng (Vulnerability Quick Response, Intranet Scanning System)
 
@@ -175,7 +176,9 @@ ________________________________________________________________________________
 
 · https://github.com/1N3/BlackWidow (Collect OSINT and Fuzz OWASP vulnerabilities on target sites)
 
- Seven, webshell detection or malware analysis tools
+__________________________________________________________________________________________________________
+
+## webshell detection or malware analysis tools
 · https://github.com/ym2011/ScanBackdoor (simple webshell probe)
 
 · https://github.com/yassineaddi/BackdoorMan (a toolkit finds malicious, hidden and suspicious php scripts and shells in selected destinations)
@@ -200,7 +203,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
- 8 intranet penetration tool or scanner
+ ## intranet penetration tool or scanner
 · https://github.com/0xwindows/VulScritp (Intranet penetration test script)
 
 · https://github.com/lcatro/network_backdoor_scanner (internal network scanner, such as meter)
@@ -211,7 +214,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
- 9 middleware scanner or fingerprint tool
+## middleware scanner or fingerprint tool
 · https://github.com/ring04h/wyportmap (target port scan + system service fingerprint identification)
 
 · https://github.com/ring04h/weakfilescan (Dynamic Multithreading Sensitive Information Leak Detection Tool)
@@ -308,7 +311,9 @@ ________________________________________________________________________________
 
 · https://github.com/blackye/webdirdig (sensitive file scanner)
 
- 10. Special scanner (only for some special components)
+__________________________________________________________________________________________________________
+
+## Special scanner (only for some special components)
 · https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user crawl enumeration)
 
 · https://github.com/code-scan/dzscan (disc scanner)
@@ -379,7 +384,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-11 wireless network scanner
+## Wireless network scanner
 · https://github.com/savio-code/fern-wifi-cracker/ (testing and discovering defects in your network)
 
 · https://github.com/m4n3dw0lf/PytheM (Multi-Purpose Network Five-Layer Framework)
@@ -393,8 +398,9 @@ ________________________________________________________________________________
 · https://github.com/besimaltnok/PiFinger (search for wifi-pineapple traces and calculate wireless network security scores)
 
 · https://github.com/derv82/wifite2 (complete rewriting of automatic wireless attack tools)
+__________________________________________________________________________________________________________
 
- Twelve, local area network (LAN) scanner
+ ## local area network (LAN) scanner
 · https://github.com/sowish/LNScan ( local network scanner based on BBScan via.lijieje)
 
 · https://github.com/niloofarkheirkhah/nili (network scanning tools, middleman, protocol reverse engineering and fuzzy)
@@ -426,7 +432,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
-12 Modular design scanner or vulnerability detection framework
+ ## Modular design scanner or vulnerability detection framework
 · https://github.com/infobyte/faraday (Collaboration Penetration Testing and Vulnerability Management Platform)
 
 · https://github.com/az0ne/AZScanner (automatic omnidirectional scanner)
@@ -501,8 +507,8 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
- 13 some tools are related to APT.
+ ## some tools are related to APT.
 · https://github.com/Neo23x0/Loki (Simple International Olympic Committee and Event Response Scanner)
-
- Sixteen, some tools are related to ICS.
+__________________________________________________________________________________________________________
+  ## some tools are related to ICS.
 · https://github.com/w3h/icsmaster/tree/master/nse (ICS Enumeration Tool for Digital Bonds)
